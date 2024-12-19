@@ -1,0 +1,8 @@
+WAR - Kill/Be Killed
+By MuzzleFlash (mdw.breddels1@hccnet.nl)
+
+Counter-Terrorists: Kill all CT forces to win.
+
+Terrorists: Kill all T forces to win.
+
+Notes: Last man standing wins...

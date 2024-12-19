@@ -1,0 +1,18 @@
+Map:       aim_patriarch-towers
+Weapons:   AWP
+Series:    aim_patriarch
+
+
+Missiong: eliminate the other team.
+          there is no option to buy weapons in this map.
+          have fun!
+
+
+Contact:
+#OmiC / #3Dv at irc.quakenet.org
+
+
+Made by Patriarch
+
+
+(Press Fire to Continue)
